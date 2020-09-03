@@ -1,4 +1,4 @@
-package com.ghis1.ghis1springwebapi;
+package com.ghis1.ecommerce;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

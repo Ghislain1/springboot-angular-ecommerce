@@ -16,6 +16,13 @@
 
 	<properties>
 		<java.version>13</java.version>
+		
+		<!-- CODE-QUALITY : SONAR platform -->
+		<!-- to Check: mvn verify org.sonarsource.scanner.maven:sonar-maven-plugin:sonar -->
+	   <sonar.projectKey>Ghislain1_springboot-angular-ecommerce</sonar.projectKey>
+        <sonar.organization>ghislain1</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+ 
 	</properties>
 
 	<dependencies>
