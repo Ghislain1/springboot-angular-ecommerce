@@ -9,3 +9,8 @@ Learning same time  Angular, spring-boot and MySQL
 # Maven CLI- Commands
 1. mvn dependency:tree --> list dependencies tree
 1. mvn spring-boot:run --> run spring-boot app or WebApi
+
+# Code Quality
+1. Sonar cloud 
+    * Patform  Sonar cloud with github account
+    * See all non  fonctional requirements
